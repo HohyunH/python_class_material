@@ -67,7 +67,7 @@ trainloader = torch.utils.data.DataLoader(trainset, batch_size=8, shuffle=True)
 - selenium과 chrome driver를 활용한 동적 crawling 실습
 
 
-## Colab/Github tutorial
+## 3. Colab/Github tutorial
 
 - 구글에서 제공하는 무료 주피터 노트북 Colaboratory
 - git(프로그램 등의 소스 코드 관리를 위한 분산 버전 관리 시스템) 저장소를 온라인에서 관리하는 Github
