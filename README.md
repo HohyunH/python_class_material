@@ -55,3 +55,31 @@ trainloader = torch.utils.data.DataLoader(trainset, batch_size=8, shuffle=True)
 
 ## 2. 크롤링 기초
 
+#### Basic_Crawling_Code.ipynb
+- 크롤링 기초 설명 코드
+#### Web_scraping_pandas.ipynb
+- pd.read_html() 함수를 사용해서 web 데이터를 dataframe 형태로 읽어오는 실습
+#### Browser.ipynb
+- BeautifulSoup() 라이브러리를 사용하여 html 정보를 순차적으로 받아오는 실습
+#### request_json.ipynb
+- request() 라이브러리를 사용하여 html 정보를 json형태로 받아오는 실습
+#### selenium_crawling.ipynb
+- selenium과 chrome driver를 활용한 동적 crawling 실습
+
+
+## Colab/Github tutorial
+
+- 구글에서 제공하는 무료 주피터 노트북 Colaboratory
+- git(프로그램 등의 소스 코드 관리를 위한 분산 버전 관리 시스템) 저장소를 온라인에서 관리하는 Github
+- 에 대한 설명 및 간단한 실습자료 입니다.
+
+#### Colab
+- 리눅스 터미널 주요 기능 정리
+- 셀 추가/삭제
+- 개인 google drive 마운트
+- Using Gpu on colab
+
+#### Github
+- 주요 용어 정리
+- Github repository 다운로드
+- fork와 clone
