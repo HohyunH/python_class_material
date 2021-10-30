@@ -1,4 +1,4 @@
-# python_class_material
+# python_class_practice_code
 
 본 저장소는 [2021 1st semester 데이터처리언어] 수업 실습자료 입니다.
 
